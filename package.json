@@ -1,6 +1,6 @@
 {
   "name": "webdevext-packs",
-  "displayName": "Web development extension pack",
+  "displayName": "Basic Web Development: Extensions Pack",
   "description": "Extension pack for web development",
   "repository": {
     "url": "https://github.com/lendradev/webdevext-packs-vscode.git"
@@ -17,6 +17,6 @@
     "esbenp.prettier-vscode",
     "ritwickdey.liveserver",
     "formulahendry.auto-complete-tag",
-    "bradlc.vscode-tailwindcss"
+    "Zignd.html-css-class-completion"
   ]
 }
