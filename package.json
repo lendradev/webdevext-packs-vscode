@@ -1,0 +1,22 @@
+{
+  "name": "webdevext-packs",
+  "displayName": "Web development extension pack",
+  "description": "Extension pack for web development",
+  "repository": {
+    "url": "https://github.com/lendradev/webdevext-packs-vscode.git"
+  },
+  "publisher": "lendradev",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "esbenp.prettier-vscode",
+    "ritwickdey.liveserver",
+    "formulahendry.auto-complete-tag",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
